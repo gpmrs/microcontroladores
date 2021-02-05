@@ -1,0 +1,10 @@
+extra/musicas/Rock.mp3
+extra/musicas/Pop.mp3
+extra/musicas/HipHop.mp3
+extra/musicas/Jazz.mp3
+extra/musicas/Samba.mp3
+extra/musicas/Forro.mp3
+extra/musicas/Classica.mp3
+extra/musicas/Salsa.mp3
+extra/musicas/Funk.mp3
+extra/musicas/Sertanejo.mp3
